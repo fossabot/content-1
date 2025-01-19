@@ -1,4 +1,6 @@
 # Contributing to the content of MDN Web Docs
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fcontent-1.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fcontent-1?ref=badge_shield)
+
 
 :tada: First of all, thanks for taking the time to contribute to
 [MDN Web Docs](https://developer.mozilla.org)! :tada:
@@ -45,6 +47,9 @@ Everyone participating in this project is expected to follow our
 
 When contributing to the content you agree to license your contributions
 according to [our license](LICENSE.md).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fcontent-1.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fcontent-1?ref=badge_large)
 
 ## Making contributions
 
